@@ -1,0 +1,5 @@
+# Core dependencies
+# Add your runtime dependencies here
+
+# Development dependencies (install with pip install -r requirements-dev.txt)
+# See requirements-dev.txt for development dependencies
